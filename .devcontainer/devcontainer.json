@@ -1,5 +1,7 @@
 {
     "build": { "dockerfile": "Dockerfile"},
+    "init": true,
+    "remoteUser": "anandje",
     "customizations": {
         "vscode": {
         "settings": {
